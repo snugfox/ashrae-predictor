@@ -1,6 +1,6 @@
 # Building Energy usage predictor
 
-Below is the list of dependancies for both the jupyter notebooks. One contains Exploratory Data Analysis named as `EDA.ipynb` and the second contains code for the model named `model.ipynb`. Install the following dependancies through `pip` or Anaconda's `conda` package manager:
+Below is the list of dependancies for both the jupyter notebooks. One contains Exploratory Data Analysis named as `EDA.ipynb` and the second contains code for the model named `Model.ipynb`. Install the following dependancies through `pip` or Anaconda's `conda` package manager:
 1. python 3
 2. numpy
 3. matplotlib
