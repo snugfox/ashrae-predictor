@@ -14,5 +14,8 @@ Below is the list of dependancies for both the jupyter notebooks. One contains E
 
 For the neural network, in addition to the above listed dependencies, you will need to have PyTorch (torch) installed. The Jupyter notebook `ASHRAE-NN.ipynb` contains all the code related to generating a neural network model. It includes functions that load weather, building metadata, and training/testing sets from CSV files.
 
+## Data
+Download the data from the following link `https://www.kaggle.com/c/ashrae-energy-prediction/data`. Click on the download all tab. Extract the .csv files in the same path as the .ipynb notebooks.
+
 ## Running the notebooks
 The code is in a Jupyter notebook which has a .ipynb format. To run the jupyter notebook click on the "Kernal" tab. From the dropdown menu click on "Restart and run all".
