@@ -12,5 +12,7 @@ Below is the list of dependancies for both the jupyter notebooks. One contains E
 9. pandas_profiling
 10. plotly
 
-## Running the notebook
+For the neural network, in addition to the above listed dependencies, you will need to have PyTorch (torch) installed. The Jupyter notebook `ASHRAE-NN.ipynb` contains all the code related to generating a neural network model. It includes functions that load weather, building metadata, and training/testing sets from CSV files.
+
+## Running the notebooks
 The code is in a Jupyter notebook which has a .ipynb format. To run the jupyter notebook click on the "Kernal" tab. From the dropdown menu click on "Restart and run all".
